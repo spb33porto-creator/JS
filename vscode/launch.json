@@ -7,7 +7,7 @@
       "request": "launch",
       "url": "${workspaceFolder}/index.html",
       "webRoot": "${workspaceFolder}",
-      "runtimeExecutable": "/path/to/chrome.exe" // Опционально, если хочешь задать точный путь к Chrome
+      "runtimeExecutable": "/path/to/chrome.exe" 
     }
   ]
 }
